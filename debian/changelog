@@ -1,0 +1,43 @@
+numix-folders-galliumos (1.1.1+201702010031~197~ubuntu16.04.1-galliumos0) UNRELEASED; urgency=low
+
+  * WIP
+  * Style 1 from upstream numix-folders
+
+ -- reynhout <reynhout@galliumos.org>  Mon, 27 Feb 2017 01:54:09 +0000
+
+numix-folders (1.1.1+201702010031~197~ubuntu16.04.1) xenial; urgency=low
+
+  * Auto build.
+
+ -- Paolo Rotolo <rotolopao@gmail.com>  Wed, 01 Feb 2017 00:31:56 +0000
+
+numix-folders (1.1.1-0ubuntu0) wily; urgency=low
+
+  * Add gksu dependency.
+
+ -- Paolo Rotolo <paolorotolo@ubuntu.com>  Thu, 12 Jan 2016 21:30:18 +0100
+
+numix-folders (1.1.0-0ubuntu0) wily; urgency=low
+
+  * Add GUI.
+
+ -- Paolo Rotolo <paolorotolo@ubuntu.com>  Fri, 18 Sep 2015 19:12:17 +0100
+
+numix-folders (1.0.2-0ubuntu0) vivid; urgency=low
+
+  * Fixed typo in bash script.
+
+ -- Paolo Rotolo <paolorotolo@ubuntu.com>  Thu, 02 Jul 2015 11:01:17 +0100
+
+numix-folders (1.0.1-0ubuntu0) vivid; urgency=low
+
+  * Fixed not found resources bug.
+
+ -- Paolo Rotolo <paolorotolo@ubuntu.com>  Sat, 02 May 2015 20:30:17 +0100
+
+
+numix-folders (1.0.0-0ubuntu0) vivid; urgency=low
+
+  * Initial release.
+
+ -- Paolo Rotolo <paolorotolo@ubuntu.com>  Fri, 01 May 2015 21:10:17 +0100

@@ -1,0 +1,5 @@
+#!/bin/sh
+
+gtk-update-icon-cache /usr/share/icons/Numix-Folders
+
+exit 0
