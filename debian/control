@@ -1,4 +1,4 @@
-Source: numix-folders-galliumos
+Source: numix-folders
 Section: gnome
 Priority: extra
 Maintainer: reynhout <reynhout@galliumos.org>
@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 7)
 Standards-Version: 3.9.4
 Homepage: https://launchpad.net/numix-icon-theme
 
-Package: numix-folders-galliumos
+Package: numix-folders
 Architecture: all
 Depends: ${misc:Depends}
 Description: Numix Folders

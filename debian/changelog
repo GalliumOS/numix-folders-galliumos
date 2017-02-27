@@ -1,7 +1,6 @@
-numix-folders-galliumos (1.1.1+201702010031~197~ubuntu16.04.1-galliumos0) UNRELEASED; urgency=low
+numix-folders (1.1.1+201702010031~197~ubuntu16.04.1-galliumos0) xenon; urgency=low
 
-  * WIP
-  * Style 1 from upstream numix-folders
+  * Repackaging upstream numix-folders (style 1 only, to start)
 
  -- reynhout <reynhout@galliumos.org>  Mon, 27 Feb 2017 01:54:09 +0000
 
