@@ -1,6 +1,9 @@
-numix-folders (1.1.1+201702010031~197~ubuntu16.04.1-galliumos0) xenon; urgency=low
+numix-folders (1.1.1+201702010031~197~ubuntu16.04.1-galliumos1) xenon; urgency=low
 
-  * Repackaging upstream numix-folders (style 1 only, to start)
+  * Re-package with changes from http://ppa.launchpad.net/numix/ppa/ubuntu
+    - include only style 1 (flat folders)
+    - add symlinks to default to blue
+    - add symlinks for historical icon names
 
  -- reynhout <reynhout@galliumos.org>  Mon, 27 Feb 2017 01:54:09 +0000
 
