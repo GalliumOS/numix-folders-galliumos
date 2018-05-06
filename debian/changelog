@@ -1,3 +1,10 @@
+numix-folders (1.1.1+201702010031~197~ubuntu16.04.1-galliumos2) bismuth; urgency=low
+
+  * Prepare for GalliumOS 3.0
+    - version and dist change only
+
+ -- reynhout <reynhout@galliumos.org>  Sun, 06 May 2018 18:46:55 +0000
+
 numix-folders (1.1.1+201702010031~197~ubuntu16.04.1-galliumos1) xenon; urgency=low
 
   * Re-package with changes from http://ppa.launchpad.net/numix/ppa/ubuntu
